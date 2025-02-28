@@ -17,11 +17,13 @@ Data Exploration & Preprocessing:
 
 The dataset (patients.csv) contains real-world hospital records, including patient demographics, hospital characteristics, length of stay, and associated costs.
 Data cleaning and transformation were performed to ensure consistency and accuracy.
+
 Data Analysis & Visualization:
 
 Exploratory Data Analysis (EDA) was conducted to understand distribution patterns and correlations.
 Tableau visualizations were created to highlight efficiency trends across different hospitals.
 Calculated fields and KPIs were developed to derive insights on cost efficiency, patient flow, and hospital performance variations.
+
 Dashboard Development:
 
 An interactive business dashboard (3_3_cost_dashboard_solution.twbx) was designed in Tableau.
@@ -32,8 +34,11 @@ SQL (if applicable) – Data extraction, transformation, and querying for deeper
 Excel/CSV – Initial data preprocessing and exploratory analysis.
 # Key Insights & Findings
 Length of Stay (LOS) Variation: Identified key factors influencing LOS, including patient condition severity, hospital capacity, and resource allocation.
+
 Cost Drivers: Analyzed cost discrepancies across hospitals, identifying opportunities for operational improvements and cost savings.
+
 Hospital Performance Comparison: Provided benchmarking insights, highlighting hospitals with best practices in patient care efficiency.
+
 Data-Driven Decision Making: Developed a strategic framework for improving hospital operations through interactive data storytelling.
 # Project Deliverables
 📂 Dataset: patients.csv – Contains hospital efficiency data for analysis.
