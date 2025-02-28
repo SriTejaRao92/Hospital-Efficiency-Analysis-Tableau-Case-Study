@@ -44,6 +44,7 @@ Hospital Performance Comparison: Provided benchmarking insights, highlighting ho
 Data-Driven Decision Making: Developed a strategic framework for improving hospital operations through interactive data storytelling.
 # Project Deliverables
 📂 Dataset: patients.csv – Contains hospital efficiency data for analysis.
+
 📂 Dashboard Solution: 3_3_cost_dashboard_solution.twbx – A fully interactive Tableau dashboard presenting the findings.
 
 # Conclusion
