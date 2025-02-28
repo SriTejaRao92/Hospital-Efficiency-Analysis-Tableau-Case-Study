@@ -30,7 +30,9 @@ An interactive business dashboard (3_3_cost_dashboard_solution.twbx) was designe
 The dashboard provides a comprehensive view of hospital efficiency metrics, allowing stakeholders to make informed decisions based on real-time data insights.
 # Tools & Technologies Used
 Tableau – Data visualization, dashboard development, and analytics.
+
 SQL (if applicable) – Data extraction, transformation, and querying for deeper insights.
+
 Excel/CSV – Initial data preprocessing and exploratory analysis.
 # Key Insights & Findings
 Length of Stay (LOS) Variation: Identified key factors influencing LOS, including patient condition severity, hospital capacity, and resource allocation.
